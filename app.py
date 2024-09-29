@@ -198,7 +198,7 @@ def tela_agendamento_usuario(id_usuario):
     cal.pack(pady=(3, 10))
 
     ctk.CTkLabel(user_window, text="Hora Início:").pack()
-    horarios = ["19:00", "19:30", "20:00", "20:30", "21:00", "21:30"]
+    horarios = ["19:00", "19:30", "20:00", "20:30", "21:00"]
     hora_combobox = ctk.CTkComboBox(user_window, values=horarios)
     hora_combobox.pack(pady=(3, 10))
 
