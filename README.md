@@ -1,4 +1,5 @@
 # sistema-de-reserva-de-laboratorio
+Verifique os colaboradores.
 - aplicativo desenvolvido por estudantes como parte de um projeto acadêmico, afim de melhorar e aplicar seus conhecimentos de desenvolvimento de software
 
 sistema que realiza reservas entre 2 laboratórios, na qual você pode escolher o horário demarcado entre 19:00 ás 21:30
